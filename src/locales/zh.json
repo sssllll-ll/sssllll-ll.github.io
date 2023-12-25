@@ -1,0 +1,27 @@
+{
+  "form": {
+   "appCode":"如何获取AppCode？",
+   "feishuDocument":"如何批量识别附件中的发票信息并将结果导出至多维表格？",
+   "enterAppcode":"请输入AppCode",
+   "content":{
+      "noField":"无可选择的列",
+      "pleaseSelect":"请选择",
+      "neccessary":"必选",
+      "unneccessary":"可选",
+      "fpdmTitle":"请选择发票代码列：",
+      "fpdmRemind":"发票代码 【注意：全电票可不传，其他必传】",
+      "fphmTitle":"请选择发票号码列：",
+      "fphmRemind":"发票号码",
+      "xymTitle":"请选择校验码列：",
+      "xymRemind":"校验码 【注意：专票、全电票可不传，其他必填。校验码支持全位和后6位】",
+      "kprqTitle":"请选择开票日期列：",
+      "kprqRemind":"开票日期",
+      "bhsjeTitle":"请选择不含税金额列：",
+      "bhsjeRemind":"不含税金额 【注意：普票可不传，其他发票必填 。全电票请传含税金额，其他发票需传 不含税金额】",
+      "yzTitle":"请选择将“是否一致”导出到的列：",
+      "zfTitle":"请选择将“是否作废”导出到的列：",
+      "chTitle":"请选择将“是否冲红”导出到的列：",
+      "submit":"提交"
+   }
+  }
+}
